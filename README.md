@@ -3,7 +3,9 @@
 In java many times we need to load property files or files of any type in java application. There are many ways to do this.
 
 [1). Using getResourceAsStream or getResource](#).
+
 [2). Using ResourceUtils.getFile()](#).
+
 [3). Using Google Guava](#).
 
 
