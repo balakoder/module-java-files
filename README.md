@@ -12,6 +12,7 @@ In java many times we need to load property files or files of any type in java a
  For More details please follow the [tutorials](https://www.javacodestuffs.com/2020/09/read-file-from-resources-folder-in-java.html).
 
 #How to Read file from resources folder in Java
+
 In java many times we need to load property files or files of any type in java application. There are many ways to do this.
 
 [1). Read file to byte[] array with FileInputStream](#).
