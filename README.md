@@ -8,6 +8,9 @@ In java many times we need to load property files or files of any type in java a
 
 [3). Using Google Guava](#).
 
+ For More details please follow the [tutorials](https://www.javacodestuffs.com/2020/09/read-file-from-resources-folder-in-java.html).
+
+# Relevant Articles:
 
 [File Operations in Java](https://www.javacodestuffs.com/2020/06/file-operations-in-java.html).
 
